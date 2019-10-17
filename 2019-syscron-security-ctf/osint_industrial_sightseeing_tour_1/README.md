@@ -23,7 +23,7 @@ She said: "This one helps you writing things."
 
 ### Solution
 
-The image displays a building. A name is displayed.  Google it.
+The image displays a building. A name is displayed on it.  Google it.
 
 The home page of the company mentions the name of the city.
 
